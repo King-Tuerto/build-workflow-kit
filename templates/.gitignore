@@ -1,0 +1,6 @@
+# Secrets: never commit these.
+.env
+.env.*
+# Test and tool clutter.
+smoke_test.log
+node_modules/
